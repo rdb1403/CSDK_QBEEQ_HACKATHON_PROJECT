@@ -6,12 +6,12 @@ const port = 3000;
 app.use(cors());
 
 const connectionOptions = {
-    account: 'nhsglnu-cp39630',
-    username: 'C_SDK_USR',
-    password: '64Squares!@#1',
-    warehouse: 'B2D_WH',
-    database: 'C_SDK_DB',
-    schema: 'PUBLIC',
+    account: '',
+    username: '',
+    password: '',
+    warehouse: '',
+    database: '',
+    schema: '',
 };
 const connection = snowflake.createConnection(connectionOptions);
 
