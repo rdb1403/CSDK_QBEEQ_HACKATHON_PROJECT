@@ -1,0 +1,23 @@
+.grid-stack-item-content {
+  background-color: white;
+  inset: 5px;
+}
+
+.grid-stack {
+  overflow-x: hidden;
+}
+
+.grid-stack-item {
+  border-radius: 10px;
+}
+
+.visualisation-container {
+  margin-top: 65px;
+  width: 100%;
+  height: calc(100vh - 110px);
+}
+
+.grid-stack {
+  position: relative;
+  background-color: #ffcf4c;
+}

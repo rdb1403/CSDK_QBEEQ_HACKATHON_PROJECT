@@ -1,0 +1,16 @@
+.grid-stack {
+  margin: 10px; 
+}
+
+.grid-stack-item {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd; 
+  border-radius: 5px;
+  overflow: hidden; 
+ 
+}
+.grid-stack-item-content {
+  padding: 10px; 
+  
+  
+}

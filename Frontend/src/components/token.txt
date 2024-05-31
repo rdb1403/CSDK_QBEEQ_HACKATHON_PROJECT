@@ -1,0 +1,2 @@
+url="http://localhost:8081"
+token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjUxMjg0OGQyMDI4MDc2ZTEyYzU0MDJkIiwiYXBpU2VjcmV0IjoiYmFmMmUxNjktNGJhYi04ZjUwLTcwNmUtOTYxNTA0YTIwYzRiIiwiaWF0IjoxNjk1NzE2Mzc1fQ.2UzWrSK2zZ3KgqO6o2efLkcayQ7SzdbBUmyVZeGJr9w"
